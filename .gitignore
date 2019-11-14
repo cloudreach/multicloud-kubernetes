@@ -1,0 +1,18 @@
+# Cloud credentials
+gce-sa.json
+
+# SSH Keys
+mc-k8s
+mc-k8s.pub
+
+### Terraform
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
